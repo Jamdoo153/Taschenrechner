@@ -12,7 +12,6 @@
 
             // wandel Text in Ganzzahl
             int ersteSummenAlsZahl1 = Convert.ToInt32(ersteZahl);
-            int zweiteSummenAlsZahl1 = Convert.ToInt32(zweiteZahl);
 
             int summe = ersteSummenAlsZahl1 + zweiteSummenAlsZahl1;
             Console.WriteLine("Das Ergebnis aus {0} + {1} = {2}", ersteZahl, zweiteZahl, summe);
