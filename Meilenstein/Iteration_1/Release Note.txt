@@ -1,0 +1,6 @@
+TAG:>		Iteration_1 fertig
+ART.>		Internes Entwicklung Release
+STATUS:>	kann am Tester verteilt werden
+
+FUNKTION:>	* Addieren von Gleitkommerzahlen
+		* Schnelles Starten (einfach .Exe ausführen
