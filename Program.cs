@@ -1,4 +1,4 @@
-﻿namespace Taschenrechner_Iteration_1
+﻿namespace Taschenrechner
 {
     internal class Program
     {
