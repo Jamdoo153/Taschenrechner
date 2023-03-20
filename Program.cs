@@ -11,10 +11,10 @@
             string zweiteZahl = Console.ReadLine();
 
             // wandel Text in Ganzzahl
-            int ersteSummenAlsZahl1 = Convert.ToInt32(ersteZahl);
-            int zweiteSummenAlsZahl1 = Convert.ToInt32(zweiteZahl);
-
-            int summe = ersteSummenAlsZahl1 + zweiteSummenAlsZahl1;
+            double ersteSummenAlsZahl1 = Convert.ToDouble(ersteZahl);
+            double zweiteSummenAlsZahl1 = Convert.ToDouble(zweiteZahl);
+            
+            double summe = ersteSummenAlsZahl1 + zweiteSummenAlsZahl1;
             Console.WriteLine("Das Ergebnis aus {0} + {1} = {2}", ersteZahl, zweiteZahl, summe);
             Console.ReadKey();
         }
